@@ -36,3 +36,7 @@ Share and test
 
 If you want to share the lab link, the
 Reliable web generators (interface): https://www.qr-code-generator.com/ — use it only for links you generate.
+
+<img width="1321" height="739" alt="Image" src="https://github.com/user-attachments/assets/c6b6ccf2-64ac-47e7-b265-e1293471a9d7" />
+<img width="1210" height="693" alt="Image" src="https://github.com/user-attachments/assets/b4dc21e2-dde0-4645-abbb-2c162a2ce3fb" />
+
