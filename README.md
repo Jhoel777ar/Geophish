@@ -10,7 +10,7 @@ sudo apt install -y php
 ```
 2. Clone repo and set permissions.
 ```bash
-git clone https://github.com/thegoodhackertv/Geophish
+git clone https://github.com/Jhoel777ar/Geophish.git
 cd Geophish
 chmod o+w log.html
 ```
@@ -29,6 +29,10 @@ You should see a link with this format: `https://u83450tuntg.lhr.life`, make sur
 ## Disclaimer
 Usage of these scripts for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes.
 
-## Support
-[<img width=300 alt="patreon" src="https://pbs.twimg.com/media/DC4gjLRUMAAyQ92?format=jpg">](https://www.patreon.com/thegoodhacker)
-[<img width=250 alt="buymeacoffe" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png">](https://www.buymeacoffee.com/thegoodhacker)
+
+## Link
+
+Share and test
+
+If you want to share the lab link, the
+Reliable web generators (interface): https://www.qr-code-generator.com/ — use it only for links you generate.
